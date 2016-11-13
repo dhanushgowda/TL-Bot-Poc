@@ -1,0 +1,12 @@
+*.pkl
+*.gz
+*.pyc
+.DS_Store
+.idea
+data/.ipynb_checkpoints
+data/sentences.txt
+data/classes.txt
+isenv/
+uk_station_list
+examples/elman-forward
+examples/elman-forward-old-model
